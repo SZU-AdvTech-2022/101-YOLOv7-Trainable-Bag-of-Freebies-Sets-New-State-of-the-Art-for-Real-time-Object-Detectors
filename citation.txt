@@ -1,4 +1,4 @@
-@article{REPO-102,
+@article{REPO-101,
     author = "Wang, Chien-Yao and Bochkovskiy, Alexey and Liao, Hong-Yuan Mark",
     journal = "arXiv preprint arXiv:2207.02696",
     title = "{YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-time Object Detectors}",
